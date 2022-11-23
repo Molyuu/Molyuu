@@ -11,10 +11,10 @@ English/Chinese | 什么傻逼东西，用文言文装逼是吧
 
 > Ways of contact me as well xD | 快通过以下方式来和我击剑🤺
 
-*Matrix*(preferred) | [@molyuu:fedora.im](matrix.to/#/@molyuu:fedora.im)
+**Matrix**(preferred) | [@molyuu:fedora.im](https://matrix.to/#/@molyuu:fedora.im)
 
 Tencent QQ | QQ id 2748138787
 
-My Telegram Group | [Molyuu's Group](t.me/molyuu_group)
+My Telegram Group | [Molyuu's Group](https://t.me/molyuu_group)
 
 Coolapk | [Molyuuu](http://www.coolapk.com/u/11839714)
