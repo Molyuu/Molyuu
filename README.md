@@ -11,6 +11,7 @@ zh_CN 母语 | en_US poor | de_DE ungefähr gleich no
 
 ## Get in touch
 - E-Mail: zhangjtroger@gmail.com
+- Telegram: https://t.me/Molyuu2007
 - Matrix: https://matrix.to/#/@molyuu:mozilla.org
 - Misskey: https://neko.ci/@Molyuu
 
