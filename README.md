@@ -13,6 +13,5 @@ zh_CN 母语 | en_US poor | de_DE ungefähr gleich no
 - E-Mail: zhangjtroger@gmail.com
 - Telegram: https://t.me/Molyuu2007
 - Matrix: https://matrix.to/#/@molyuu:mozilla.org
-- Misskey: https://neko.ci/@Molyuu
 
 ![Molyuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molyuu)
