@@ -1,12 +1,19 @@
 ## Molyuu here,a.k.a 摸鱼
 
-He/Him
+This is Molyuuuuuu 👋
 
-zh_CN 母语 | en_US poor | de_DE ungefähr gleich no
+zh_CN native | en_US poor | de_DE ungefähr gleich no
+
+I'm a 15 y.o. Chinese who is still at middle school. Currently interested in Android and Linux.
+
+Also have experience in server maintenance ~~Basically wasting money and time on VPS, domain and try to make everything self-hosted (failed tho)~~
+
+Wanna live in northern China one day with my boyfriend 🫠
 
 ## Get in touch
+- Website: https://molyuu.cyou
 - E-Mail: mi@molyuu.cyou
 - Telegram: https://t.me/Molyuu2007
-- Matrix: https://matrix.to/#/@molyuu:mozilla.org
+- Twitter: https://twitter.com/Molyuu2007
 
 ![Molyuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molyuu)
