@@ -8,8 +8,6 @@ I'm a 15 y.o. Chinese who is still at middle school. Currently interested in And
 
 Also have experience in server maintenance ~~Basically wasting money and time on VPS, domain and try to make everything self-hosted (failed tho)~~
 
-Wanna live in northern China one day with my boyfriend 🫠
-
 ## Get in touch
 - Website: https://molyuu.cyou
 - E-Mail: mi@molyuu.cyou
