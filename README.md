@@ -2,7 +2,7 @@
 
 This is Molyuuuuuu 👋
 
-zh_CN native | en_US poor | de_DE ungefähr gleich no
+zh_CN native | en_US poor | Lojban .i xu do se bangu la lojban.
 
 I'm a 15 y.o. Chinese who is still at middle school. Currently interested in Android and Linux.
 
