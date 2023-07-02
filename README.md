@@ -11,7 +11,5 @@ Also have experience in server maintenance ~~Basically wasting money and time on
 ## Get in touch
 - Website: https://molyuu.cyou
 - E-Mail: mi@molyuu.cyou
-- Telegram: https://t.me/Molyuu2007
-- Twitter: https://twitter.com/Molyuu2007
 
 ![Molyuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molyuu)
