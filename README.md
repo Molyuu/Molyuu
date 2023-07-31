@@ -6,7 +6,7 @@ zh_CN native | en_US poor | Lojban .i xu do se bangu la lojban.
 
 I'm a 15 y.o. Chinese who is still at middle school. Currently interested in Android and Linux.
 
-Also have experience in server maintenance ~~Basically wasting money and time on VPS, domain and try to make everything self-hosted (failed tho)~~
+Also have experience in server maintenance ~~Basically wasting money and time on VPS, domain and tring to make everything self-hosted (failed tho)~~
 
 ## Get in touch
 - Website: https://molyuu.cyou
