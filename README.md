@@ -2,12 +2,6 @@
 
 This is Molyuuuuuu 👋
 
-zh_CN native | en_US poor
-
-I'm a 15 y.o. Chinese who is still at high school. Currently interested in Android and Linux.
-
-Also have experience in server maintenance ~~Basically wasting money and time on VPS, domain and tring to make everything self-hosted (failed tho)~~
-
 ## Get in touch
 - Website: https://molyuu.cyou
 - E-Mail: mi@molyuu.cyou
