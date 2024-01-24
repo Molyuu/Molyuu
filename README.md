@@ -7,3 +7,5 @@ This is Molyuuuuuu 👋
 - E-Mail: mi@molyuu.cyou
 
 ![Molyuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molyuu)
+
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=Molyuu&layout=compact&show_icons=true&exclude_repo=neko_kernel_xiaomi_gauguin&layout=donut)
